@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Paulo Padilha.</h1>
 <h3 align="center">Estudante de Engenharia de Software e apaixonado por tecnologia.</h3>
 
-- No momento, estou aprendendo **linguagem C.**
+- No momento, estou aprendendo a **linguagem C.**
 
-- Tenho conhecimento em **HTML, CSS, JavaScript, PHP, Python, C#, C, SQL, MongoDB, Excel, Word, PowerPoint, Photoshop, etc.**
+- Tenho conhecimento em **HTML, CSS, JavaScript, PHP, Python, C#, SQL, MongoDB, Excel, Word, PowerPoint, Photoshop, etc.**
 
 - 📫 Você me encontra através do email **padilha.dev00@gmail.com**
 
