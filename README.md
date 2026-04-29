@@ -11,7 +11,7 @@
 Sou **Engenheiro de Software** graduado, movido pela curiosidade e pela vontade de construir soluções que simplificam o dia a dia. Tenho experiência no desenvolvimento de sistemas robustos, focando em performance, usabilidade e design moderno.
 
 - 🎓 Graduado em **Engenharia de Software**
-- 🚀 Atualmente aprofundando conhecimentos em **Arquitetura de Software** e **Cloud Computing**
+- 🚀 Atualmente aprofundando conhecimentos em **Automação Python** e **Cloud Computing**
 - 🏢 Foco em criar aplicações escaláveis e centradas no usuário
 
 ---
@@ -21,9 +21,6 @@ Sou **Engenheiro de Software** graduado, movido pela curiosidade e pela vontade 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css,bootstrap,c,cs,docker,figma,mongodb,mysql,php,python,sqlite,ps,vscode,git,github&perline=10" alt="My Skills" />
 </div>
-
-> [!TIP]
-> Minha stack principal hoje envolve **React**, **Tailwind CSS** e **Firebase** para entregas rápidas e escaláveis.
 
 ---
 
