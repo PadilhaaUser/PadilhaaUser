@@ -11,7 +11,7 @@
 Sou **Engenheiro de Software** graduado, movido pela curiosidade e pela vontade de construir soluções que simplificam o dia a dia. Tenho experiência no desenvolvimento de sistemas robustos, focando em performance, usabilidade e design moderno.
 
 - 🎓 Graduado em **Engenharia de Software**
-- 🚀 Atualmente aprofundando conhecimentos em **Automação Python** e **Cloud Computing**
+- 🚀 Atualmente aprofundando conhecimentos em **Python** e **React.js**
 - 🏢 Foco em criar aplicações escaláveis e centradas no usuário
 
 ---
